@@ -2,7 +2,7 @@
 
 #### Ruby scripts to use with the Shopify Plus Script Editor app
 
-Feel free to use these as needed! If you need a custom script developed feel free to <a href="mailto:jxcreative.design@gmail.com">get in touch</a>
+Feel free to use these as needed! If you need a custom script developed feel free to <a href="mailto:j.h.digitalnz@gmail.com">get in touch</a>
 
 This repo is split into three parts:
 
